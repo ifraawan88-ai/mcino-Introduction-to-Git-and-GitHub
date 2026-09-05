@@ -1,0 +1,3 @@
+git branch -vv
+  bug-fix-typo 31ff8a6 Fix typo
+* main         31ff8a6 [origin/main: ahead 1] Fix typo
